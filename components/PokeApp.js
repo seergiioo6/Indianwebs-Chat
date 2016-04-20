@@ -34,7 +34,7 @@ export default class PokeApp extends React.Component {
     var oriol = {"name": "Oriol Salvador",
                   "number": "3",
                   "url": "fotoweb-oriol-salvador.jpg",
-                  "mensaje": "Apuntar Horas de mantenimiento"
+                  "mensaje": "Apuntar horas de mantenimiento"
                   };
     var jordi = {"name": "Jordi Miró",
                   "number": "4",
