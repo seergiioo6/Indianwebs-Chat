@@ -1,6 +1,6 @@
 # IndianWebs Chat
 
-## Instrucciones
+## How to run this app
 
 ```
 npm install
